@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules
+jspm_packages
+
+# bower components
+
+bower_components/
+node_modules/
+
+# images
+public/images/
+
+# local environment variable file
+.env
+*.sublime-*
